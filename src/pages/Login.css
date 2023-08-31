@@ -1,0 +1,28 @@
+/* Credits to https://css-tricks.com/snippets/css/a-guide-to-flexbox/ for the movie-table-container  */
+/* I have used display, flex-direction, align-items from Examples and Related Properties and adapted it  */
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .login-form {
+    width: 300px;
+  }
+  
+  .login-label {
+    margin-right: 10px;
+  }
+  
+  .login-button {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+
+  .login-title {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }

@@ -1,0 +1,26 @@
+.homepage-card {
+    margin: auto;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border: none;
+    border-radius: 10px;
+    margin-top: 70px;
+    max-width: 800px;
+  }
+  
+  .card-img-top {
+    border-radius: 10px 10px 0px 0px;
+  }
+  
+  .card-body {
+    padding: 3rem;
+  }
+  
+  .card-title {
+    font-size: 3rem;
+  }
+  
+  .card-text {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }

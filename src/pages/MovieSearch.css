@@ -1,0 +1,41 @@
+/* Credits to https://css-tricks.com/snippets/css/a-guide-to-flexbox/ for the movie-table-container  */
+/* I have used display, flex-direction, align-items from Examples and Related Properties and adapted it  */
+
+.movie-table-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  .movie-table-title {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+
+  .movie-table-dropdown {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .ag-theme-alpine {
+    box-shadow: 0 0 5px #ccc;
+    border-radius: 5px;
+    margin-bottom: 50px;
+  }
+  
+  .ag-theme-alpine {
+    box-shadow: 0 0 5px #ccc;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    min-width: 1750px;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .movie-table-container {
+      width: 100%;
+    }
+  }
