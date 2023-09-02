@@ -14,6 +14,10 @@
 
 </div>
 
+## Description
+
+IMDb Clone is a React.js web application that uses a movie database REST API that combines IMDb, Metacritic and Rotten Tomatoes data. Users are able to browse thousands of movies and can select individual movies to view detailed information such as production year, cast, ratings and Box Office revenue. Further, users can register and login to view detailed information on cast members such as date of birth, movies they have been in and potentially date of death. The IMDb implements an AG Grid table with infinite scrolling to improve DOM performance and prevent excessive queries to the REST API. It also uses JWT verification for user registration/login, Luxon formatting and datetime parsing, and conditional rendering of components. The project has taught me a lot about web development, however, there is still much more to learn so I would greatly appreciation any contributions or advice! Thanks.
+
 ## Features
 
 <details>
