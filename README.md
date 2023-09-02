@@ -57,6 +57,12 @@ IMDb Clone is a React.js web application that uses a movie database REST API tha
    npm start
    ```
 
+## Roadmap
+
+- Migrate to IMDb API to remove VPN protection
+- Improve conditional rendering
+- Improve UI/UX
+
 ## Contributing
 
 Contributions (Issues/PRs/Discussions) are the driver of improvements in projects. Any contributions you make are greatly appreciated.
