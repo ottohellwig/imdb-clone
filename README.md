@@ -1,4 +1,3 @@
-<div align="center">
 
   # IMDb Clone
 
@@ -76,5 +75,5 @@ This work is published under [MIT License][license].
 
 ## Note
 
-To have the table functioning, please request a demo via an issue as the REST API is restricted with a VPN.
+To have the table functioning, please request a demo via an issue.
 
